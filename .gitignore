@@ -10,6 +10,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Zombie_Project/[Ll]ibrary/
+/Zombie_Project/[Tt]emp/
+/Zombie_Project/[Oo]bj/
+/Zombie_Project/[Bb]uild/
+/Zombie_Project/[Bb]uilds/
+/Zombie_Project/[Ll]ogs/
+/Zombie_Project/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
